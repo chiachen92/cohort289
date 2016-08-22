@@ -10,3 +10,5 @@ Johnny Five,
 Anita,
 Forty-Two The Eleventh,
 Carrotina
+Amelia,
+Djibouti
